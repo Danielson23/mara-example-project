@@ -26,9 +26,9 @@ Jinja2==2.10.3
 jmespath==0.9.4
 Mako==1.1.0
 -e git+https://github.com/mara/mara-acl.git@751066101c1cac484edd2984fd0eace283f6332d#egg=mara_acl
--e git+https://github.com/mara/mara-app.git@08174196221a4d77b84f5b3ec77c8a5e53298408#egg=mara_app
+-e git+https://github.com/mara/mara-app.git@b2b91f67d52ecf5709cdd49faacdd0329b14175e#egg=mara_app
 -e git+https://github.com/mara/mara-db.git@9ce0a51f699fe6df164d20680a2e8230819b4175#egg=mara_db
--e git+https://github.com/mara/mara-etl-tools.git@4749619993bd20e19d38f2a3981bec37a9038274#egg=mara_etl_tools
+-e git+https://github.com/mara/mara-etl-tools.git@1be1cd30ef2740d05b44cfc4a9f570e918f3310e#egg=mara_etl_tools
 -e git+https://github.com/mara/mara-page.git@c499a6c44aaa638c1515c3a857e5f68cad8b84c9#egg=mara_page
 MarkupSafe==1.1.1
 more-itertools==8.0.2
